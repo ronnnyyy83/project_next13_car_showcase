@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"cssImports":{"/Users/roni/Desktop/roni_projects/project_next13_car_showcase/app/layout.tsx":["/Users/roni/Desktop/roni_projects/project_next13_car_showcase/app/globals.css"]},"cssModules":{"/Users/roni/Desktop/roni_projects/project_next13_car_showcase/app/page":["/Users/roni/Desktop/roni_projects/project_next13_car_showcase/app/globals.css"]}}
